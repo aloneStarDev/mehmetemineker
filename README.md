@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmetemineker" alt="mehmetemineker" /></a> </p>
 
-- 📝 I regularly write articles on [www.mehmetemineker.com](www.mehmetemineker.com)
+- 📝 I regularly write articles on <a href="https://www.mehmetemineker.com">www.mehmetemineker.com</a>
 
 - 💬 Ask me about **C#, .Net, .NetCore, Javascript ++**
 
